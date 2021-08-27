@@ -1,3 +1,3 @@
 # ChanhoResume
 
-https://chanhooop.github.io/portfolio/
+https://chanhooop.github.io/Chanhoresume/
